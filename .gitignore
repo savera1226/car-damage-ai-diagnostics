@@ -1,0 +1,9 @@
+# Ignore the massive data and model folders
+model/
+training_data/
+.ipynb_checkpoints/
+
+# Ignore local temp files
+**/temp_file.jpg
+**/__pycache__/
+*.pth
