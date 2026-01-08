@@ -3,6 +3,8 @@
 📝 Project Overview
 This end-to-end Computer Vision application automates the assessment of vehicle damage for insurance and repair industries. By utilizing a fine-tuned ResNet-50 architecture, the engine identifies both the location (Front/Rear) and the severity (Normal/Breakage/Crushed) of damage from 3/4 view images.
 
+![App Demo](streamlit_app_screenshot.jpg)
+
 🚀 Key Features
 Real-time Diagnostics: Instant classification across 6 specialized damage categories.
 
